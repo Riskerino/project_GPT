@@ -1,0 +1,3 @@
+/home/jakob/Documents/Bioinformatik/Semester_2/SOWA/project_GPT/build/CMakeFiles/fasta_parser.dir
+/home/jakob/Documents/Bioinformatik/Semester_2/SOWA/project_GPT/build/CMakeFiles/edit_cache.dir
+/home/jakob/Documents/Bioinformatik/Semester_2/SOWA/project_GPT/build/CMakeFiles/rebuild_cache.dir
